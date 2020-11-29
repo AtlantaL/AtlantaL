@@ -1,9 +1,6 @@
 ## Hi there, I'm Atlanta! 👋
 
 
-Work in progress readme!
-
-
 
 
 - 🔭 I’m currently working as a Junior Data Analytics Consultant
